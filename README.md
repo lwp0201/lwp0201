@@ -13,7 +13,7 @@
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lwp0201&theme=dracula&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lwp0201&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 
 ### ⭐️ GitHub Stats:
