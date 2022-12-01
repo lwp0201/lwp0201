@@ -2,17 +2,9 @@
 
 ---
 
--   🔭 I’m currently working for Bairong Inc
-
--   🌱 I’m currently learning React ecosystem. Such as react, redux, hooks and so on
-
--   🛠 I'm currently coding BattleCity
-
--   💬 Ask me about JavaScript and fed tecnology
+-   🔭 I’m currently Studing in NBU.
 
 -   📫 How to reach me: [on my HomePage](https://github.com/lwp0201/)
-
--   😄 Pronouns: He/Him
 
 -   🐱 Proud cat dad of bomb :)
 
@@ -21,7 +13,7 @@
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lwp0201&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lwp0201&theme=dracula&no-frame=true&no-bg=true"/>
 </a>
 
 ### ⭐️ GitHub Stats:
